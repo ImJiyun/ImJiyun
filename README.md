@@ -8,7 +8,6 @@ I'm Jiyun from Republic of Korea, who wants to be a developer.
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jiyunk?theme=unicorn)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ImJiyun&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ImJiyun&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImJiyun&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
