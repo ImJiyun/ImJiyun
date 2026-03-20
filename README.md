@@ -1,21 +1,14 @@
 # 💫 About Me:
-I'm Jiyun from Republic of Korea, with a background in Economics and Public Administration.  
-Currently training in Statistics & Data Science and software development.
+I'm Jiyun, a data-focused developer interested in analytics engineering and BI.
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ImJiyun&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/ImJiyun"
-  width="600"
-  height="300"
-/>
-</a>
+- B.A. in Economics & Public Administration  
+- SSAFY 12th (Samsung Software Academy for Youth)  
+- Salesforce AI Data Engineering Track
 
 # 💻 Tech Stack:
-- Languages: Java, JavaScript, TypeScript, Python, SQL  
-- Frontend: React, Redux, React Router, React Query, Vite, CSS3, TailwindCSS, Bootstrap  
-- Backend: Spring  
-- Tools & Collaboration: Git, GitHub, GitLab  
-- Data: Python, R
+- SQL, Python, Tableau  
+- Data Modeling, ETL
+- Git, GitHub, GitLab  
   
 # 📊 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jiyunk?theme=unicorn)
