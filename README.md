@@ -1,14 +1,18 @@
-# 💫 About Me:
-I'm Jiyun, a data-focused developer interested in analytics engineering and BI.
+# 👋 Hi, I'm Jiyun
 
-- B.A. in Economics & Public Administration  
-- SSAFY 12th (Samsung Software Academy for Youth)  
+I build **data pipelines** and **Tableau dashboards** to transform raw data into reliable insights.  
+Currently seeking opportunities in **data platforms and BI**.
+
+## 🎓 Background
+- B.A. in **Public Administration & Economics** (Kyunghee University)
+- SSAFY 12th (Samsung Software Academy for Youth)
 - Salesforce AI Data Engineering Track
 
-# 💻 Tech Stack:
-- SQL, Python, Tableau  
-- Data Modeling, ETL
-- Git, GitHub, GitLab  
+## 💻 Tech Stack
+**Data Processing & Analysis:**
+- SQL (BigQuery), Python (Pandas, Requests)
+- Tableau 
+- Data Quality Management, ETL Pipelines
   
 # 📊 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jiyunk?theme=unicorn)
