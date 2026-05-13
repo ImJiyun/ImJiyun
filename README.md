@@ -1,12 +1,6 @@
 # 👋 Hi, I'm Jiyun
 
-I build data pipelines and Tableau dashboards to transform raw data into reliable insights.  
-Currently seeking opportunities in data platforms and BI.
-
-## 🎓 Background
-- B.A. in Public Administration & Economics (Kyunghee University)
-- SSAFY 12th (Samsung Software Academy for Youth)
-- Salesforce AI Data Engineering Track
+I'm Jiyun from Republic of Korea
 
 ## 💻 Tech Stack
 **Data Processing & Analysis:**
